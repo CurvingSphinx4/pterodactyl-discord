@@ -1,0 +1,16 @@
+{
+  "name": "pterodactyl-panel-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "j122j",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "nodeactyl": "^2.0.1",
+    "quick.db": "^7.0.0-b22"
+  }
+}
