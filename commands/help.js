@@ -5,7 +5,7 @@ module.exports = {
         aliases: ['?']
     },
     run: async (bot, message, args) => {
-        let botAuthor = await bot.fetchUser('447479189717778435')
+        let botAuthor = await bot.fetchUser('511511769034784768')
         let HelpEmbed = new RichEmbed()
         .setTitle('Help')
         .setColor(bot.color)
